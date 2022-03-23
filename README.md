@@ -1,1 +1,1 @@
-# smart.dustbin
+# smart.dustbin project For kid
